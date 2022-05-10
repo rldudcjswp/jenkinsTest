@@ -141,6 +141,7 @@
     <Content Include="bin\MimeKit.dll" />
     <Content Include="bin\Newtonsoft.Json.dll" />
     <Content Include="Default.aspx" />
+    <Content Include="Properties\PublishProfiles\FolderProfile.pubxml.user" />
     <Content Include="resources\js\jquery-1.12.4.min.js" />
     <Content Include="Web.config" />
     <Content Include="ws\Common.asmx" />
@@ -162,6 +163,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
