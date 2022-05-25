@@ -7,4 +7,5 @@
     console.log('hello6');
     console.log('hello7');
     console.log('hello8');
+    console.log('hello9');
 }
