@@ -140,6 +140,7 @@
     <Content Include="Default.aspx" />
     <Content Include="Properties\PublishProfiles\FolderProfile.pubxml.user" />
     <Content Include="resources\js\jquery-1.12.4.min.js" />
+    <Content Include="resources\js\sample.js" />
     <Content Include="Web.config" />
     <Content Include="ws\Common.asmx" />
   </ItemGroup>
